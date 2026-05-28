@@ -1,0 +1,6 @@
+Hello world
+simple line
+HELLO again
+abc123
+worldwide
+empty
