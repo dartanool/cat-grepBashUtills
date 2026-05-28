@@ -6,7 +6,6 @@ CLANG_FORMAT = .clang-format
 TMP = /tmp/s21_grep_tests
 INPUT = test/input_1.txt
 
-# grep exits with 1 when there are no matches; this is not a test failure.
 GREP_OK = || test $$? -eq 1
 
 all: s21_grep
